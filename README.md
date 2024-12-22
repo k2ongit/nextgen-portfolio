@@ -1,2 +1,15 @@
-# nextgen-portfolio
-This responsive, visually appealing portfolio showcases your projects, skills, and blogs. Featuring a clean layout, interactive elements, and a user-friendly contact form, it highlights creativity and professionalism. Perfect for personal branding, it ensures an engaging user experience and seamless adaptability across all devices.
+# My Innovative Website
+
+This is a personal portfolio website showcasing my projects, blog, and contact information.
+
+## Features
+- Fully responsive design.
+- Portfolio and blog sections.
+- Interactive animations.
+
+## Usage
+1. Clone the repository.
+2. Open `index.html` in a browser or deploy to a web server.
+
+## License
+This project is licensed under the MIT License.
